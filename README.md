@@ -1,8 +1,9 @@
 # app-shopping-app 
 
-TODO:
-	Add the basic fluter app functionality. 
+TODO: 
 	Later on add user input
+	Add the basic fluter app functionality.
+	Work on UI
 
 Achieved:
 	CodeLabs assignment done
