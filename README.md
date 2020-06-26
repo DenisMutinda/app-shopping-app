@@ -1,1 +1,8 @@
-"# app-shopping-app Add the basic fluter app functionality. Later on add user input" 
+# app-shopping-app 
+
+TODO:
+	Add the basic fluter app functionality. 
+	Later on add user input
+
+Achieved:
+	CodeLabs assignment done
