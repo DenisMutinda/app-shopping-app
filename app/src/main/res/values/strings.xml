@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Shopping App</string>
     <string name="add_item_button">Add Item</string>
+    <string name="header">Pick your poison:</string>
+    <string name="item_a">Item A</string>
+    <string name="item_b">Item B</string>
+    <string name="item_c">Item C</string>
+    <string name="item_d">Item d</string>
+    <string name="header_main_screen">Your Shopping List:</string>
 </resources>
